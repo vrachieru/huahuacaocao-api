@@ -6,7 +6,7 @@ class HuaHuaCaoCao:
 
     _HOST = 'https://api.huahuacaocao.net'
 
-    def __init__(self, region='CN', country='CN', lang='en', phone='samsung_s7_27', self.app_version='AS_3042_5.4.4'):
+    def __init__(self, region='CN', country='CN', lang='en', phone='samsung_s7_27', app_version='AS_3042_5.4.4'):
         '''
         Create a new client instance
 
